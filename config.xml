@@ -3,7 +3,7 @@
     
     <name>Margarete Koenen</name>
     <description>Latest Art by Margarete Koenen</description>
-    <author email="margaretekoenen@gmail.com" href="http://margaretekoenen.com">MK Webmaster</author>
+    <author email="margaretekoenen@gmail.com" href="http://www.margaretekoenen.com">MK Webmaster</author>
 
     <preference name="phonegap-version" value="3.3.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
