@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.margaretekoenen.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.wpengine.mkln.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
-    <name>Margarete Koenen</name>
-    <description>Latest Art by Margarete Koenen</description>
+    <name>Test Questionnaire</name>
+    <description>test of a quiz page</description>
     <author email="margaretekoenen@gmail.com" href="http://www.margaretekoenen.com">MK Webmaster</author>
 
     <preference name="phonegap-version" value="3.3.0" />
@@ -47,6 +47,6 @@
     <gap:splash src="res/screen/ios/Default@2x.png" gap:platform="ios" width="680" height="960" />
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
-    <content src="http://www.margaretekoenen.com" />
+    <content src="http://mkln.wpengine.com" />
     <access origin="*" subdomains="true" />
 </widget>
